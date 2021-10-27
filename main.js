@@ -1,7 +1,7 @@
 const socialMediaLinks = {
   github: 'nicolepeiker',
   youtube: 'nicolerv1',
-  facebook: 'pablo.peiker',
+  facebook: 'nicole.rafaela.11',
   instagram: 'nicolepeiker',
   twitter: 'nicolerv'
 }
